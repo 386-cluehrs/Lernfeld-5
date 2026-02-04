@@ -1,4 +1,7 @@
 - Repository erstellen
+- Branches erstellen
 - Teilnemer einladen
-- Dateien hinzufügen
+- Inhalte hinzufügen / ändern / entfernen
 - Pull requests annehmen / ablehnen
+- Status prüfen
+- Mergen von Änderrungen
