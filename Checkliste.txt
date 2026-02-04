@@ -1,0 +1,4 @@
+- Repository erstellen
+- Teilnemer einladen
+- Dateien hinzufügen
+- Pull requests annehmen / ablehnen
