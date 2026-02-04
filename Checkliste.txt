@@ -1,7 +1,8 @@
-- Repository erstellen
-- Branches erstellen
-- Teilnemer einladen
-- Inhalte hinzufügen / ändern / entfernen
+- Repository erstellen ✅
+- Branches erstellen ✅
+- Teilnemer einladen ✅
+- Inhalte hinzufügen / ändern / entfernen ✅
 - Pull requests annehmen / ablehnen
 - Status prüfen
 - Mergen von Änderrungen
+- Projekte erstellen
