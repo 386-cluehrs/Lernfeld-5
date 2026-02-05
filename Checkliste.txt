@@ -6,3 +6,14 @@
 - Status prüfen
 - Mergen von Änderrungen
 - Projekte erstellen
+
+
+Repository Erstellen
+Repository lokal auschecken
+Eine Datei im Repository erstellen, committen und pushen
+Änderungen vom Repository Pullen
+Ausgewählte Änderungen in einer Datei committen und pushen
+Erweitert (Optional):
+  Branches erstellen und Auschecken
+  Einen Branch auf mergen
+  Merge Konflikte Lösen
